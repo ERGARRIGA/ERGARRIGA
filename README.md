@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hola! 👋 Mi nombre es Ezequiel Garriga.
+## Soy estudiante **FullStack Javascript** Developer
+> Vivo en Cordoba Capital, Argentina. Actualmente estoy estudiando en el Bootcamp de Guillermo Rodas.
 
+> Reforzando conocimientos en FrontEnd como: **HTML, CSS, JavaScript, React**. Y en Backend con **Node.JS**.
 
-**ERGARRIGA/ERGARRIGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Comence viendo Markdown y algunos de los comandos aplicados a la terminal. Como por ejemplo:
 
-Here are some ideas to get you started:
+| Comando | Descripcion (que muestra?)                                         |
+| ------- | ------------------------------------------------------------------ |
+| pwd     | Ruta absoluta del directorio actual en el que estamos posicionados |
+| ls      | Lista los archivos de la carpeta actual                            |
+| cd      | Permite navegar entre carpetas                                     |
+| mkdir   | Se utiliza para la creacion de nuevas carpetas                     |
+| cat     | Imprime el contenido de un archivo dada su ruta                    |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Para poder verlo en el servidor
+ Es necesario escribir el siguiente comando en la terminal.
+
+> npx @11ty/eleventy --server
+
+y el link a continuacion en el navegador
+
+> http://localhost:8080/ergarriga/index.html  
+
 
